@@ -2,7 +2,7 @@
 
 ## 👋 À propos de moi
 
-Bonjour ! Je suis **Maxice**, un développeur passionné de 19 ans avec plus de **2 500 heures** de codage et un **score de 1352** sur [Root Me](https://www.root-me.org/). Je travaille principalement avec Linux (Ubuntu) et fais partie de l'équipe **Midlife**. Mon expertise s'étend au développement de serveur FiveM.
+Bonjour ! Je suis **Maxice**, un développeur passionné de 20 ans avec plus de **2 500 heures** de codage et un **score de 1352** sur [Root Me](https://www.root-me.org/). Je travaille principalement avec Linux (Debian) et fais partie de l'équipe **Vex Freamwork**. Mon expertise s'étend au développement de serveur FiveM.
 
 ## 🛠️ Compétences & Technologies
 
