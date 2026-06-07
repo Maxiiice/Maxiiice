@@ -35,4 +35,4 @@ Bonjour ! Je suis **Maxice**, un développeur passionné de 20 ans avec plus d
 
 N'hésitez pas à me contacter via les plateformes ci-dessous :
 
-Laisser moi tranquille !
+contact@maxencewalter.fr
