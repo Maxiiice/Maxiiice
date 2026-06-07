@@ -20,8 +20,8 @@ Bonjour ! Je suis **Maxice**, un développeur passionné de 20 ans avec plus d
 ### Frameworks et Outils
 
 - **Frameworks :** ESX, Qb Core, React, Node.js
-- **Outils de développement :** Git, Docker, Kubernetes, VS Code
-- **Outils d'automatisation :** Selenium, BeautifulSoup, Scapy
+- **Outils de développement :** Git, VS Code
+- **Languages :** LUA, JS, HTML, CSS, PHP
 
 ### Domaines d'expertise
 
